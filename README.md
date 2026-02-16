@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm currently learning AI/ML
+I'm currently learning AI/ML.
 <br>
-I'm interested in Cyber Security
+I'm interested in Cyber Security.
 
 
 ## 🌐 Socials:
